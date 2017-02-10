@@ -1,6 +1,5 @@
 # fiore
-Fiore Design
+Fiore Website Design
 
 1. git clone
-2. go to init directory
-3. gulp
+2. gulp
